@@ -1,0 +1,8 @@
+gridwars/starter/MovingBot.java
+ gridwars.starter.MovingBot
+gridwars/starter/ExpandBot.java
+ gridwars.starter.ExpandBot
+gridwars/starter/EmulatorRunner.java
+ gridwars.starter.EmulatorRunner
+gridwars/starter/RPMMBot.java
+ gridwars.starter.RPMMBot
